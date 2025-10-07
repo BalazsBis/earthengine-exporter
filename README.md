@@ -12,7 +12,7 @@ either as gridded data (e.g., by state) or at point locations from a CSV file.
 ## Usage
 1. Open the notebook in [Google Colab](https://colab.research.google.com)
 2. Configure `MODE`, `START_DATE`, datasets, and other parameters.
-3. Run all cells — exports will appear in your Google Drive folder.
+3. Run all cells and exports will appear in your Google Drive folder.
 
 
 ## Notes
